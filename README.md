@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Naik</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer | MLOps Specialist | Exploring the Frontiers of Generative AI</h3>
 
-- 🔭 I’m currently working on AgentiAI Projects
+- 🔭 I’m currently working on AgenticAI Projects
 
 - 🌱 I’m currently learning **MLFlow,Langchain,Langgraph,CrewAI**
 
